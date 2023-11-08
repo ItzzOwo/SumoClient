@@ -1,0 +1,16 @@
+[
+{
+  "modid": "jumpreset",
+  "name": "Sumo Client",
+  "description": "A client for Sumo featuring AutoJumpReset, AutoSprintReset and HitDelayFix",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ItzOwo"],
+  "credits": "ItzOwo",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
